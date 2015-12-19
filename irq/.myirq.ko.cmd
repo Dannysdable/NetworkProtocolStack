@@ -1,1 +1,0 @@
-cmd_/home/disk/src_git/NetworkProtocolStack/irq/myirq.ko := ld -r -m elf_x86_64 -T /home/disk/linux-2.6.32/scripts/module-common.lds --build-id -o /home/disk/src_git/NetworkProtocolStack/irq/myirq.ko /home/disk/src_git/NetworkProtocolStack/irq/myirq.o /home/disk/src_git/NetworkProtocolStack/irq/myirq.mod.o
